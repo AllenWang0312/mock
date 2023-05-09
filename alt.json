@@ -1,19 +1,10 @@
 {
   "name": "SD Flutter",
   "identifier": "edu.tjrac.swant.sd",
-  "apps": [
-    {
-      "version": "0.1.0",
-      "versionDate": "2023-03-17",
-      "iconURL": "",
-      "downloadUrl": "",
-      "size":
-    }
-  ],
   "services": [
     {
       "serviceDate": "2023-03-17",
-      "service": ""
+      "service": "https://fa4dcb47-72eb-4270.gradio.live"
     }
   ]
 }
